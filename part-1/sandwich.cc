@@ -1,7 +1,7 @@
 // Cain Garcia
 // Cain577@csu.fullerton.edu
 // @cain-11
-// Partners: @anegicp @Alecflores02+
+// Partners: @anegicp, @Alecflores02+
 
 #include <iostream>
 #include <string>
