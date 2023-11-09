@@ -14,7 +14,7 @@ int main(int argc, char* argv[]) {
 
     return 1;
   }
-  // TODO: Validate that there is at least one command line argument.
+  // XTODO: Validate that there is at least one command line argument.
   // If not, print an error message and return a non-zero value.
   double sum{0};
   bool first{true};
